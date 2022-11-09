@@ -1,0 +1,325 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    max-width: 1250px;
+}
+.tel-log a {
+    color: #fff;
+    font-size: 20px;
+}
+.tv {
+    color: gray;
+}
+.samsung {
+    margin: 0 5px;
+    font-size: 10px;
+}
+.clip {
+    background-image: url(../images/rgb-min.png);
+    clip-path: polygon(0 31%, 49% 0, 100% 28%, 100% 70%, 48% 100%, 0 69%);
+
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 45px;
+    line-height: 75px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Poppins";
+    margin-bottom: 20px;
+}
+.simetri-title{
+    font-size: 35px;
+    line-height: 75px;
+}
+.reference1 {
+    background-image: url(../images/bg/bg-1-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference2 {
+    background-image: url(../images/bg/bg-2-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference3 {
+    background-image: url(../images/bg/bg-3-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference4 {
+    background-image: url(../images/bg/bg-4-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference5 {
+    background-image: url(../images/bg/bg-5-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference6 {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(../images/bg/bg-6-min.png);
+
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference7 {
+    background-image: url(../images/bg/bg-7-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference8 {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url(../images/bg/bg-8-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference9 {
+    background-image: url(../images/bg/bg-9-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference10 {
+    background-image: url(../images/bg/bg-10-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference11 {
+    background-image: url(../images/bg/bg-11-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference12 {
+    background-image: url(../images/bg/bg-12-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference13 {
+    background-image: url(../images/bg/bg-13-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference14 {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url(../images/bg/bg-14-min.png);
+
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference15 {
+    background-image: url(../images/bg/bg-15-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference16 {
+    background-image: url(../images/bg/bg-16-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference17 {
+    background-image: url(../images/bg/bg-17-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference18 {
+    background-image: url(../images/bg/bg-18-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference19 {
+    background-image: url(../images/bg/bg-19-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference20 {
+    background-image: url(../images/bg/bg-20-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference21 {
+    background-image: url(../images/bg/bg-21-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference22 {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.2), rgba(255, 255, 0, 0.2)), url(../images/bg/bg-22-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference23 {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.2), rgba(255, 255, 0, 0.2)), url(../images/bg/bg-23-min.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reference-main {
+    color: #fff;
+}
+.reference-main-text {
+    height: 100%;
+    margin: auto;
+}
+.btn-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 3px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Poppins";
+    padding: 5px 48px;
+    border-radius: 10px;
+    background-color: #f16d23;
+}
+.btn-link:hover {
+    color: #fff;
+}
+.tv-padding {
+    padding: 115px 0;
+}
+.app {
+    margin-bottom: 30px;
+}
+.col-img-1,
+.col-img-2,
+.col-img-3,
+.col-img-4 {
+    position: relative;
+    overflow: hidden;
+}
+.owl-1 {
+    position: absolute;
+    left: 67px;
+    top: 50px;
+}
+.owl-2 {
+    position: absolute;
+    left: 25px;
+    top: 68px;
+}
+.owl-3 {
+    position: absolute;
+    left: 22px;
+    top: 12px;
+}
+.owl-4{
+    position: absolute;
+    left: 160px;
+    top: 50px;
+}
+.item-1 {
+    width: 192px;
+}
+.item-2 {
+    width: 560px;
+}
+.item-3 {
+    width: 580px;
+}
+.item-4 {
+    width: 192px;
+}
+/**MEDIA QUERY**/
+@media (max-width:990px) {
+    .col-img-1,
+    .col-img-2,
+    .col-img-3,
+    .col-img-4{
+        text-align: center;
+    }
+    h1 {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .reference-main-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .owl-1{
+        transform: translateX(50%);
+        left: -178px;
+        top: 50px;
+    }
+    .owl-2{
+        transform: translateX(50%);
+        left: -290px;
+        top: 70px;
+    }
+    .owl-3{
+        transform: translateX(50%);
+        left: -290px;
+        top: 13px;
+    }
+    .owl-4{
+        transform: translateX(50%);
+        left: -84px;
+        top: 50px;
+    }
+}
+@media (max-width:600px){
+    .owl-1{
+        transform: translateX(50%);
+        left: -139px;
+        top: 40px;
+    }
+    .owl-2{
+        transform: translateX(50%);
+        left: -170px;
+        top: 40px;
+    }
+    .owl-3{
+        transform: translateX(50%);
+        left: -170px;
+        top: 5px;
+    }
+    .owl-4{
+        transform: translateX(50%);
+        left: -77px;
+        top: 35px;
+    }
+    h1 {
+        margin-top: 10px;
+        line-height: 50px;
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .btn-link {
+        font-size: 25px;
+        font-weight: 600;
+        padding: 3px 58px;
+        margin-bottom: 50px;
+    }
+    .app {
+        margin: 30px 0;
+    }
+    .col-img-1 img {
+        max-width: 350px;
+        height: auto;
+    }
+    .col-img-4 img {
+        max-width: 350px;
+        height: auto;
+    }
+    .col-img-2 img {
+        max-width: 350px;
+        height: auto;
+    }
+    .col-img-3 img {
+        max-width: 350px;
+        height: auto;
+    }
+    .item-1 {
+        width: 145px;
+    }
+    .item-2 {
+        max-width: 322px;
+    }
+    .item-3 {
+        max-width: 340px;
+    }
+    .item-4 {
+        width: 145px;
+    }
+}
