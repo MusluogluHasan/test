@@ -34,7 +34,12 @@ h1 {
 }
 .simetri-title{
     font-size: 35px;
-    line-height: 75px;
+    line-height: 40px;
+}
+.s-btn-link{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 3px 25px!important;
 }
 .reference1 {
     background-image: url(../images/bg/bg-1-min.png);
@@ -190,13 +195,13 @@ h1 {
 }
 .owl-1 {
     position: absolute;
-    left: 67px;
+    left: 66px;
     top: 50px;
 }
 .owl-2 {
     position: absolute;
-    left: 25px;
-    top: 68px;
+    left: 34px;
+    top: 60px;
 }
 .owl-3 {
     position: absolute;
@@ -205,20 +210,28 @@ h1 {
 }
 .owl-4{
     position: absolute;
-    left: 160px;
-    top: 50px;
+    left: 134px;
+    top: 45px;
 }
+.owl-5{
+    left: 57px;
+    top: 45px;
+}
+
 .item-1 {
-    width: 192px;
+    width: 193px;
 }
 .item-2 {
-    width: 560px;
+    width: 493px;
 }
 .item-3 {
-    width: 580px;
+    width: 533px;
 }
 .item-4 {
-    width: 192px;
+    width: 168px;
+}
+.item-5 {
+    width: 167px;
 }
 /**MEDIA QUERY**/
 @media (max-width:990px) {
@@ -236,6 +249,7 @@ h1 {
         display: flex;
         flex-direction: column;
         align-items: center;
+        width: 100%;
     }
     .owl-1{
         transform: translateX(50%);
@@ -244,30 +258,45 @@ h1 {
     }
     .owl-2{
         transform: translateX(50%);
-        left: -290px;
-        top: 70px;
+        left: -245px;
+        top: 60px;
     }
     .owl-3{
         transform: translateX(50%);
-        left: -290px;
-        top: 13px;
+        left: -265px;
+        top: 12px;
     }
     .owl-4{
         transform: translateX(50%);
-        left: -84px;
-        top: 50px;
+        left: -80px;
+        top: 45px;
     }
+    .owl-5{
+        left: -157px;
+        top: 45px;
+    }
+    .simetri-title{
+        font-size: 45px;
+        line-height: 75px;
+        width: 80%;
+        margin: auto;
+    }
+
 }
 @media (max-width:600px){
+    .simetri-title{
+        font-size: 30px;
+        line-height: 45px;
+    }
     .owl-1{
         transform: translateX(50%);
-        left: -139px;
+        left: -140px;
         top: 40px;
     }
     .owl-2{
         transform: translateX(50%);
-        left: -170px;
-        top: 38px;
+        left: -160px;
+        top: 40px;
     }
     .owl-3{
         transform: translateX(50%);
